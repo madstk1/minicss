@@ -1,0 +1,9 @@
+{
+    "variable-prefix": "--",
+    "mediakeys": {
+        "small":  "566px",
+        "medium": "776px",
+        "large":  "922px",
+        "mega":   "1200px"
+    }
+}

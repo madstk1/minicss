@@ -1,0 +1,15 @@
+{
+    "name": "MiniCSS",
+    "version": "v0.0.1",
+    "description": "A simple CSS minimizer, with support for global variables.",
+    "main": "lib/minicss",
+    "scripts": {
+    },
+    "keywords": [
+        "css",
+        "rework",
+        "minimizer"
+    ],
+    "author": "Mads T. Kristiansen",
+    "license": "GPL-3.0"
+}
